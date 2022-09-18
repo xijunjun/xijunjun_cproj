@@ -1,5 +1,0 @@
-﻿  main.cpp
-f:\workspace\vs2013\剑指offer\23二叉搜索树的后序遍历序列\main.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
-f:\workspace\vs2013\剑指offer\23二叉搜索树的后序遍历序列\main.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
-f:\workspace\vs2013\剑指offer\23二叉搜索树的后序遍历序列\main.cpp(61): warning C4800: “TreeNode *”: 将值强制为布尔值“true”或“false”(性能警告)
-  23二叉搜索树的后序遍历序列.vcxproj -> F:\workspace\VS2013\剑指offer\Debug\23二叉搜索树的后序遍历序列.exe
