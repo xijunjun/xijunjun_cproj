@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\shuati\笔试\头条01\main.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+f:\shuati\笔试\头条01\main.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+  头条01.vcxproj -> F:\ShuaTi\笔试\Debug\头条01.exe

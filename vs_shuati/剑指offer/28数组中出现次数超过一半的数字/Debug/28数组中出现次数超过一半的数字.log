@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\shuati\剑指offer\28数组中出现次数超过一半的数字\main.cpp(34): error C2011: “Solution”:“class”类型重定义
+          f:\shuati\剑指offer\28数组中出现次数超过一半的数字\main.cpp(8) : 参见“Solution”的声明
+f:\shuati\剑指offer\28数组中出现次数超过一半的数字\main.cpp(75): error C2079: “mys”使用未定义的 class“Solution”
+f:\shuati\剑指offer\28数组中出现次数超过一半的数字\main.cpp(76): error C2228: “.MoreThanHalfNum_Solution”的左边必须有类/结构/联合
+          类型是“int”

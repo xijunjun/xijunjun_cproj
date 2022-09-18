@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\shuati\笔试\华为8-22-1\main.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+f:\shuati\笔试\华为8-22-1\main.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+  华为8-22-1.vcxproj -> F:\ShuaTi\笔试\Debug\华为8-22-1.exe

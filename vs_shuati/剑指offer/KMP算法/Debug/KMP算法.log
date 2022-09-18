@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\shuati\剑指offer\kmp算法\main.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+f:\shuati\剑指offer\kmp算法\main.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+f:\shuati\剑指offer\kmp算法\main.cpp(142): warning C4018: “<”: 有符号/无符号不匹配
+  KMP算法.vcxproj -> F:\ShuaTi\剑指offer\Debug\KMP算法.exe

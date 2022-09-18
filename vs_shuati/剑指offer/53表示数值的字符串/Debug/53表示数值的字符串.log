@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\shuati\剑指offer\53表示数值的字符串\main.cpp(201): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+f:\shuati\剑指offer\53表示数值的字符串\main.cpp(231): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  53表示数值的字符串.vcxproj -> F:\ShuaTi\剑指offer\Debug\53表示数值的字符串.exe

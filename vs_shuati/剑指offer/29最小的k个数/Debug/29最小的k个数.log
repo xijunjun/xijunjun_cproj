@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\shuati\剑指offer\29最小的k个数\main.cpp(10): warning C4018: “>”: 有符号/无符号不匹配
+f:\shuati\剑指offer\29最小的k个数\main.cpp(44): warning C4018: “>”: 有符号/无符号不匹配
+f:\shuati\剑指offer\29最小的k个数\main.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+f:\shuati\剑指offer\29最小的k个数\main.cpp(106): warning C4018: “<”: 有符号/无符号不匹配
+  29最小的k个数.vcxproj -> F:\ShuaTi\剑指offer\Debug\29最小的k个数.exe

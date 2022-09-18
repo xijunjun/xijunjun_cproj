@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\shuati\剑指offer\31整数中1出现的次数\main.cpp(18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\shuati\剑指offer\31整数中1出现的次数\main.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  31整数中1出现的次数.vcxproj -> F:\ShuaTi\剑指offer\Debug\31整数中1出现的次数.exe

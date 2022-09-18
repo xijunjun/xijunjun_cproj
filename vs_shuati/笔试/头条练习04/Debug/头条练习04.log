@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\shuati\笔试\头条练习04\main.cpp(28): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+f:\shuati\笔试\头条练习04\main.cpp(52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  头条练习04.vcxproj -> F:\ShuaTi\笔试\Debug\头条练习04.exe
