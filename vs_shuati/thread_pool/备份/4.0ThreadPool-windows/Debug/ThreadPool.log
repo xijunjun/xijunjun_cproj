@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\workspace\vs2013\thread_pool\threadpool\main.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+f:\workspace\vs2013\thread_pool\threadpool\main.cpp(36): warning C4018: “<”: 有符号/无符号不匹配
+  ThreadPool.vcxproj -> F:\workspace\VS2013\thread_pool\Debug\ThreadPool.exe

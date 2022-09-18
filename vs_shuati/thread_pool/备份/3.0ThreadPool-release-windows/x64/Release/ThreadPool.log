@@ -1,0 +1,14 @@
+﻿  CLThreadpool.cpp
+  CThread.cpp
+  main.cpp
+CLThreadpool.obj : error LNK2001: 无法解析的外部符号 __imp_sem_post
+CLThreadpool.obj : error LNK2001: 无法解析的外部符号 __imp_sem_init
+CLThreadpool.obj : error LNK2001: 无法解析的外部符号 __imp_sem_destroy
+CLThreadpool.obj : error LNK2001: 无法解析的外部符号 __imp_sem_wait
+CThread.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_mutex_init
+CThread.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_mutex_destroy
+CThread.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_create
+CThread.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_join
+CThread.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_mutex_unlock
+CThread.obj : error LNK2001: 无法解析的外部符号 __imp_pthread_mutex_lock
+F:\workspace\VS2013\thread_pool\x64\Release\ThreadPool.exe : fatal error LNK1120: 10 个无法解析的外部命令
