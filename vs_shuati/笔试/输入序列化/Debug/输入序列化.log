@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (输入序列化.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  main.cpp
-f:\shuati\笔试\输入序列化\main.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
-f:\shuati\笔试\输入序列化\main.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
-f:\shuati\笔试\输入序列化\main.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
-  输入序列化.vcxproj -> F:\ShuaTi\笔试\Debug\工具函数.exe

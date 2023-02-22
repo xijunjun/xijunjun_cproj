@@ -1,3 +1,0 @@
-﻿  main.cpp
-MSVCRTD.lib(crtexe.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 ___tmainCRTStartup 中被引用
-F:\workspace\VS2013\剑指offer\Debug\24二叉树中和为某一值的路径.exe : fatal error LNK1120: 1 个无法解析的外部命令

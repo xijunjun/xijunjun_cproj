@@ -1,4 +1,0 @@
-﻿  main.cpp
-f:\shuati\笔试\小马04\main.cpp(13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-f:\shuati\笔试\小马04\main.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
-  小马04.vcxproj -> F:\ShuaTi\笔试\Debug\虎牙01.exe
